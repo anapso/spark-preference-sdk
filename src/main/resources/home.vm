@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Exercicio Inducao</h1>
+<div class="row row-3">
+    <h4></h4>
+</div>
+
+<h3>Home</h3>
+<ul id="todo-list">
+    <li><a href="/preerence/redirect"><button>Gerar preference</button></a></li>
+</ul>
+</body>
+</html>
